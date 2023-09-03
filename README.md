@@ -1,7 +1,10 @@
 # DSCI-Phishing-Email-Detection
+## Created by Hung Do, Leland Ly, and Andy Chek
 
 1. How to run:
-
+    - Notebooks:
+      1. Open the desired Jupyter Notebook
+      2. Click "Run All Cells" to run all notebook cells and display results 
 2. Challenges:
     - Data:
       - No pictures or links were included, making the dataset limited and unrealistic
